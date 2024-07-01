@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964726193504",
+    "project_id": "biomatchflutter",
+    "storage_bucket": "biomatchflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964726193504:android:2eb5a140b0fe86714d3205",
+        "android_client_info": {
+          "package_name": "com.example.biomatchflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSY8Nm5-HYIHn-KBDSfPMnVlTiBN7Ih74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
